@@ -1,8 +1,6 @@
 # Blender Addons
-Blender Addons collection
 
-## Addons
 
-### GP Designer Desk
+## Documentation
 
-[Open Documentation](gp_designer_desk.md)
+### [Gp Designer Desk](gp_designer_desk.md)
