@@ -1,11 +1,10 @@
 # GP Designer Desk
 
-Zaawansowane narzędzia do rigowania i kontroli Grease Pencil w Blenderze.
-
+Addon for making drawing in Grease Pencil easier
 ---
 
 
 
-## GP Switch System
+## Interfejs
 
 Pozwala tworzyć przełączniki stanów animacji dla Grease Pencil.

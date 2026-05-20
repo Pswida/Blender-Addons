@@ -1,5 +1,5 @@
 # Blender Addons
-Kolekcja dodatków do Blendera.
+Blender Addons collection
 
 ## Addons
 
