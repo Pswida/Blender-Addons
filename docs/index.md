@@ -1,16 +1,9 @@
 # Blender Addons
-
 Kolekcja dodatków do Blendera skupionych na:
-- Grease Pencil
-- Rigging
-- Animation Workflow
-- Viewport Tools
-
----
 
 ## Addons
 
-### GP Tools
+### GP Designer Desk
 
 Narzędzia do pracy z Grease Pencil:
 - shape tools
@@ -18,4 +11,4 @@ Narzędzia do pracy z Grease Pencil:
 - palette system
 - text tools
 
-[Open Documentation](gp_tools/)
+[Open Documentation](gp_designer_desk/)
