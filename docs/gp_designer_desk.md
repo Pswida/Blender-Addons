@@ -1,8 +1,4 @@
-# GP Designer Desk
-
-Addon for making drawing in Grease Pencil easier
----
-
+# GP Designer Desk documentation
 
 ## Interface
 
