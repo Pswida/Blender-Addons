@@ -5,4 +5,4 @@ Kolekcja dodatków do Blendera.
 
 ### GP Designer Desk
 
-[Open Documentation](gp_designer_desk/)
+[Open Documentation](gp_designer_desk.md)
