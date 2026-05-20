@@ -4,7 +4,7 @@ Addon for making drawing in Grease Pencil easier
 ---
 
 
+## Interface
 
-## Interfejs
-
-Pozwala tworzyć przełączniki stanów animacji dla Grease Pencil.
+### Tint panel
+Remember to use color from tint option
