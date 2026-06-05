@@ -79,6 +79,7 @@ Arrange strokes in classic way, to change their order (works only in 2D Layers m
 
 ### Stroke operators
 Additional stroke operators, in Edit mode they works on selected strokes, in other modes works on last drawn stroke (it makes life easier when you want to change last drawn stroke without going into **Edit** mode)
+
 ![Shape Panel](pics/stroke_operators.png)
 
 #### Separate 
