@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/gp_drawing_desk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "gp_drawing_desk"
             }
           }
         ]
@@ -185,10 +185,30 @@
   },
   "active": "f5e0535f3cfb7fc9",
   "lastOpenFiles": [
-    "docs/gp_designer_desk.md",
     "docs/index.md",
+    "docs/gp_drawing_desk.md",
+    "docs/pics/gizmo_buttons.png",
+    "docs/pics/transform_gizmos.png",
+    "docs/pics/change_colors.gif",
+    "Pasted image 20260605175648.png",
+    "docs/pics/plaette_button.png",
+    "docs/pics/last_operation.png",
+    "site/pics/panels.png",
+    "docs/pics/panels.png",
+    "site/search/search_index.json",
+    "site/search",
+    "site/gp_designer_desk/index.html",
+    "site/gp_designer_desk",
+    "site/index.html",
+    "site/sitemap.xml.gz",
+    "site/sitemap.xml",
+    "site/404.html",
+    "site/assets/stylesheets/palette.ab4e12ef.min.css.map",
+    "site/assets/stylesheets/palette.ab4e12ef.min.css",
+    "site/pics/color_swatches.gif",
+    "docs/pics/color_swatches.gif",
+    "docs/gp_designer_desk.md",
     "GP DESIGNER DESK.md",
-    "GP Designer Desk.md",
-    "docs/pics/tint_panel.png"
+    "GP Designer Desk.md"
   ]
 }

@@ -3,4 +3,4 @@
 
 ## Documentation
 
-### [Gp Designer Desk](gp_designer_desk.md)
+### [Gp Drawing Desk](gp_drawing_desk.md)
